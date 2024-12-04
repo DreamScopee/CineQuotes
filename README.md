@@ -25,7 +25,7 @@ A sleek and **cinematic-themed web app** that serves iconic movie quotes with a 
 ## 🚀 How to Use  
 1. **Clone the Repo**:  
    ```bash
-   git clone https://github.com/your-username/CineQuotes.git
+   git clone https://github.com/DreamScopee/CineQuotes.git
    ```  
 2. **Open the File**:  
    Open `index.html` in your browser to start exploring the quotes.  
