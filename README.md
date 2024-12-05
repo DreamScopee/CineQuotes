@@ -23,7 +23,7 @@ A sleek and **cinematic-themed web app** that serves iconic movie quotes with a 
 ---
 
 ## 🚀 How to Use  
-1. **Clone the Repo**:  
+1. **Clone my Repo**:  
    ```bash
    git clone https://github.com/DreamScopee/CineQuotes.git
    ```  
